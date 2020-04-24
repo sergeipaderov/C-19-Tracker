@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sergeipaderov/C-19-Tracker/static/css/main.abcc616f.chunk.css",
-    "main.js": "/sergeipaderov/C-19-Tracker/static/js/main.164f3893.chunk.js",
-    "main.js.map": "/sergeipaderov/C-19-Tracker/static/js/main.164f3893.chunk.js.map",
-    "runtime-main.js": "/sergeipaderov/C-19-Tracker/static/js/runtime-main.abdc8f4e.js",
-    "runtime-main.js.map": "/sergeipaderov/C-19-Tracker/static/js/runtime-main.abdc8f4e.js.map",
-    "static/js/2.098bf0a0.chunk.js": "/sergeipaderov/C-19-Tracker/static/js/2.098bf0a0.chunk.js",
-    "static/js/2.098bf0a0.chunk.js.map": "/sergeipaderov/C-19-Tracker/static/js/2.098bf0a0.chunk.js.map",
-    "index.html": "/sergeipaderov/C-19-Tracker/index.html",
-    "precache-manifest.8f4002ab112c9ebc8974fecf1be3e7b5.js": "/sergeipaderov/C-19-Tracker/precache-manifest.8f4002ab112c9ebc8974fecf1be3e7b5.js",
-    "service-worker.js": "/sergeipaderov/C-19-Tracker/service-worker.js",
-    "static/css/main.abcc616f.chunk.css.map": "/sergeipaderov/C-19-Tracker/static/css/main.abcc616f.chunk.css.map",
-    "static/js/2.098bf0a0.chunk.js.LICENSE.txt": "/sergeipaderov/C-19-Tracker/static/js/2.098bf0a0.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/sergeipaderov/C-19-Tracker/static/media/image.d7265326.png"
+    "main.css": "/C-19-Tracker/static/css/main.abcc616f.chunk.css",
+    "main.js": "/C-19-Tracker/static/js/main.164f3893.chunk.js",
+    "main.js.map": "/C-19-Tracker/static/js/main.164f3893.chunk.js.map",
+    "runtime-main.js": "/C-19-Tracker/static/js/runtime-main.b2d7b4c0.js",
+    "runtime-main.js.map": "/C-19-Tracker/static/js/runtime-main.b2d7b4c0.js.map",
+    "static/js/2.c5e536ee.chunk.js": "/C-19-Tracker/static/js/2.c5e536ee.chunk.js",
+    "static/js/2.c5e536ee.chunk.js.map": "/C-19-Tracker/static/js/2.c5e536ee.chunk.js.map",
+    "index.html": "/C-19-Tracker/index.html",
+    "precache-manifest.3576679f11c7cf26a5c5f66b8392058a.js": "/C-19-Tracker/precache-manifest.3576679f11c7cf26a5c5f66b8392058a.js",
+    "service-worker.js": "/C-19-Tracker/service-worker.js",
+    "static/css/main.abcc616f.chunk.css.map": "/C-19-Tracker/static/css/main.abcc616f.chunk.css.map",
+    "static/js/2.c5e536ee.chunk.js.LICENSE.txt": "/C-19-Tracker/static/js/2.c5e536ee.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/C-19-Tracker/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.abdc8f4e.js",
-    "static/js/2.098bf0a0.chunk.js",
+    "static/js/runtime-main.b2d7b4c0.js",
+    "static/js/2.c5e536ee.chunk.js",
     "static/css/main.abcc616f.chunk.css",
     "static/js/main.164f3893.chunk.js"
   ]
